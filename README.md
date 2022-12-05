@@ -49,3 +49,7 @@ Communicator - my last project. It was fast project that arrised from just train
 
 
 # Contact
+If you have questions, job proposition, maybe want to start a collaboration, or just want to give me a feedback to my projects : feel free to contact me under this mail address: marcinvet94@gmail.com
+
+
+Happy Exploring 💪
