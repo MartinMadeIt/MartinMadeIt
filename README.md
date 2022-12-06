@@ -45,7 +45,7 @@ For now you can explore :
 <br>[Managing App](https://github.com/MartinMadeIt/ManagingApp) - my second project that use Typescript and SASS. Firstly that was simply Redux training (mainly the withdraw and deposit feature). During the process I decided to add some features and make project from it. Some features are still under maintance. For now you can explore whole App except Magazine component. 
 <br>
 <br>
-Communicator - my last project. It was fast project that arrised from just training SQL. Started from login auth in supabase but I decided to add table that contains informations like message, user infos, timestamp etc. Added some styles and here we are. I'm finalizing it and when I do the deploy - I will  provide link and code to repository.
+[Comunicator](https://github.com/MartinMadeIt/Comunicator) - my last project. It was fast project that arrised from just SQL training. Started from login auth in supabase but I decided to add table that contains informations like message, user infos, timestamp etc. Added some styles and here we are.
 
 
 # Contact
