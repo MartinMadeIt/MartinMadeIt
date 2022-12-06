@@ -32,7 +32,7 @@ And I'm here ! 👋
 <p>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7046b3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />  
 <img alt="Figma" src="https://img.shields.io/badge/Figma-f86e5f?logo=Figma&logoColor=white&style=ShieldStyle" />
-<img alt="postgreSQL" src="https://img.shields.io/badge/Material UI-007a34?logo=Materialui&logoColor=white&style=ShieldStyle" />
+<img alt="materialUI" src="https://img.shields.io/badge/Material UI-007a34?logo=Materialui&logoColor=white&style=ShieldStyle" />
 <img alt="git" src="https://img.shields.io/badge/GIT-black?logo=GIT&logoColor=white&style=ShieldStyle" />
 </p>
 
