@@ -1,19 +1,16 @@
 ### Hello everyone ! 👋
 
-# About me and my career path
-💻 I'm Marcin and I am React Frontend Developer but half year ago - I was Veterinarian 🐶 <br>
+# Shortcut of my career path
+💻 Started as Veterinarian with love to code and sport. In march 2021 decided to throw Vet job wchich didn't satisfy me. And decided turn my hobby into everyday work 🐶 <br>
 <br>
-🐍 I'm interested in programming for a few years but in first I used to make some Python simple apps that was a tool to prepare for a college events like Farmacology test <br>
+🐍 I started my coding adventure with Python and build some simple Apps (really simple) that was my tool to learning (e.g. flashcards)<br>
 <br>
-🎯 And that was the moment I realized that probably Vet is not my path. In spite of all I decided to get the DVM degree and try to like this job. <br>
+🏫 After obtaining DVM degree decided to turn into IT more than just making simple apps. Went to postgraduate studies - Basic Frontend where I get some basic knowledge and skills in JS, Angular, HTML, CSS, SCSS. <br>
 <br>
-Guess how it ends ! <br>
+📜 Studies gave me some knowledge and skills but reveal how much effort and time I have to put in to get a dream Frontend Job. So I decided to tak 100% my time to learning. Contacted with my mentor that was big support in learning proccess and creating individual learning path. Also I decided to learning React, wchich is now my main framework and my daily biggest time absorber 😃<br>
 <br>
-That was the moment I realized that if I want to be happy - I have to make a job that makes me happy, so I bet everything on one card . So in first 3 months of being Veterinarian (march 2021) I went to postgraduate Frontend studies where I learned JS, HTML, CSS, SCSS and some Angular. In this studies I also heared about ReactJS. <br>
-When I got my diploma - I knew that if I want to have a dream Junior Frontend Developer Job - I have to invest 100% of my time to learn a lot before I'll send my first CV. So threw my Vet Job and I started cooperation with my mentor that show me roadpath to effective learning and developing React apps with best practices.
-<br>
-<br>
-And I'm here ! 👋
+⌚️ And here I am !
+
 
 # Technology
 ### Main stack
