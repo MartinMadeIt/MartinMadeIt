@@ -39,7 +39,7 @@ For now you can explore :
 <br>
 <br>[Restaurant App](https://github.com/MartinMadeIt/RestaurantApp) - my first React project. It evolved from simple exercise to something more project-like thing. Despite that theres a lot of libraries used - I decided to throw it in to respository.
 <br>
-<br>[Managing App](https://github.com/MartinMadeIt/ManagingApp) - my second project that use Typescript and SASS. Firstly that was simply Redux training (mainly the withdraw and deposit feature). During the process I decided to add some features and make project from it. Some features are still under maintance. For now you can explore whole App except Magazine component. 
+<br>[Managing App](https://github.com/MartinMadeIt/ManagingStorage) - my second project that use Typescript and SASS. Firstly that was simply Redux training (mainly the withdraw and deposit feature). During the process I decided to add some features and make project from it. Some features are still under maintance. For now you can explore whole App except Magazine component. 
 <br>
 <br>
 [Comunicator](https://github.com/MartinMadeIt/Comunicator) - my last project. It was fast project that arrised from just SQL training. Started from login auth in supabase but I decided to add table that contains informations like message, user infos, timestamp etc. Added some styles and here we are.
