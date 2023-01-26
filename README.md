@@ -31,6 +31,8 @@
 <img alt="Figma" src="https://img.shields.io/badge/Figma-f86e5f?logo=Figma&logoColor=white&style=ShieldStyle" />
 <img alt="materialUI" src="https://img.shields.io/badge/Material UI-007a34?logo=Materialui&logoColor=white&style=ShieldStyle" />
 <img alt="git" src="https://img.shields.io/badge/GIT-black?logo=GIT&logoColor=white&style=ShieldStyle" />
+<img alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=ShieldStyle&logo=vue.js&logoColor=4FC08D" />
+  
 </p>
 
 # Projects
