@@ -43,7 +43,7 @@
 <img alt="Twig" src="https://img.shields.io/badge/Twig-777BB4?logo=php&logoColor=white&style=ShieldStyle" />
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=ShieldStyle" />
 </p>
-➡️
+
 ### Rzadziej (tzn nie codziennie) używany stack
 <p>
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7046b3?logo=Bootstrap&logoColor=white&style=ShieldStyle" />  
